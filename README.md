@@ -43,7 +43,8 @@
                     picasso.pauseTag("image");//开始加载所有tag为image的imageview
                 }
             }
-  ### 在AndroidManifest.xml中配置网络权限
+	    
+ ### 在AndroidManifest.xml中配置网络权限
 
     <uses-permission android:name="android.permission.INTERNET" />
   
