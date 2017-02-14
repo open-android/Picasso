@@ -1,5 +1,8 @@
 # 很简单的android图片加载框架Picasso
 开源项目地址:[https://github.com/open-android/Picasso](https://github.com/open-android/Picasso)
+
+ PS：如果觉得文章太长，你也可观看该课程的[视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3affe39a046a&vId=8a2c9bed5a3a4c7e015a3b0451f105b8&videoId=B33E67E868CDB1D19C33DC5901307461)，亲，里面还有高清，无码的福利喔
+
 # 运行效果
   ![](website/static/sample.png)
   
